@@ -1,0 +1,1 @@
+erói, que representa personagens de uma aventura. Cada herói terá propriedades como nome, idade e tipo (ex: mago, guerreiro, monge, ninja, arqueiro). Além disso, a classe contará com um método chamado atacar, que exibirá uma mensagem personalizada de acordo com o tipo escolhido, mostrando qual ataque o herói utilizou.
